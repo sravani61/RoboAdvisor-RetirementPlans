@@ -1,6 +1,6 @@
 # Robo Advisor-Retirement Plans
 
-Planning for retirement if not done at the right time can be a nightmare. This roboadvisor "Retirement Planning",
+Planning for retirement, if not done at the right time, can be a nightmare. This roboadvisor "Retirement Planning",
 can be of little help in determining what king of portfolio can be picked for the risk tolerance level of the investor.
 
 AWS services used:
